@@ -7,7 +7,7 @@ It allows users to ask questions or give commands using their **voice**, and the
 
 ## 🔗 Live Demo
 
-🌐 [Click here to try the AI Voice Chatbot live](https://soumya-das-2006.github.io/AI-Chatbot-Voice-Search-/)
+🌐 [Click here to try the AI Voice Chatbot live](https://soumya-das-2006.github.io/AI-Chatbot-Voice-Search/)
 
 ---
 
