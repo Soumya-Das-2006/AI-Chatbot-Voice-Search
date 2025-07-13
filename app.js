@@ -25,7 +25,7 @@ function wishMe() {
 }
 
 window.addEventListener('load', () => {
-    speak("Initializing JARVIS...");
+    speak("Initializing SOUMYA...");
     wishMe();
 });
 
@@ -46,7 +46,7 @@ btn.addEventListener('click', () => {
 
 function takeCommand(message) {
     if (message.includes('hey') || message.includes('hello')) {
-        speak("Hello Sir, How May I Help You?");
+        speak("Hello Sir, I am SOUMYA. How May I Help You?");
     } else if (message.includes("open google")) {
         window.open("https://google.com", "_blank");
         speak("Opening Google...");
@@ -73,7 +73,7 @@ function takeCommand(message) {
         const finalText = "Today's date is " + date;
         speak(finalText);
     } else if (message.includes('calculator')) {
-        window.open('Calculator:///');
+        window.open('Calculator:///', '_blank');
         const finalText = "Opening Calculator";
         speak(finalText);
     } else {
