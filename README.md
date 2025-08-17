@@ -30,3 +30,8 @@ AI Voicechat/
 ├── style.css         # Styling for chatbot UI
 ├── app.js            # JavaScript logic (speech recognition & bot)
 └── giphy.gif         # Visual animation for interaction
+
+```
+---
+## 📸Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/754f5d9e-23fe-4e2a-8e39-c201277f8fe4" />
